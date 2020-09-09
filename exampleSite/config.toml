@@ -19,9 +19,6 @@ home = "Accueil"
 languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
-[menu]
-footer = []
-main = []
 [params]
 address = ""
 author = ""
