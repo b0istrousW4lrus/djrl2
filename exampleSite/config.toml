@@ -19,21 +19,8 @@ home = "Accueil"
 languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
-[[menu.footer]]
-URL = "teacher"
-name = "teacher"
-[[menu.footer]]
-URL = "notice"
-name = "notice"
-[[menu.footer]]
-URL = "event"
-name = "event"
-[[menu.footer]]
-URL = "scholarship"
-name = "scholarship"
-[[menu.footer]]
-URL = "research"
-name = "research"
+[menu]
+footer = []
 [[menu.main]]
 URL = "about"
 name = "About"
