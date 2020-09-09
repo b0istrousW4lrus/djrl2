@@ -21,10 +21,7 @@ languageName = "Fr"
 weight = 2
 [menu]
 footer = []
-[[menu.main]]
-URL = "about"
-name = "About"
-weight = 1
+main = []
 [params]
 address = "9567 Turner Trace Apt. BC C3G8A4"
 author = "Themefisher"
